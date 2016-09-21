@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Time2Dev - Itinéraire d&#39;un dev en dev !</title>
-    <description>Ma vie, mon oeuvre, et beaucoup de chose à côté suivant l&#39;inspiration. 
+    <title>Time2Dev - Itinéraire d&#39;un dev en dev!</title>
+    <description>Ma vie, mon oeuvre, et beaucoup de choses à côté suivant l&#39;inspiration. 
 </description>
     <link>http://blog.time2dev.fr/</link>
     <atom:link href="http://blog.time2dev.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 17:33:37 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 17:33:37 +0200</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 04:32:28 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 04:32:28 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Bienvenue sur mon Blog !</title>
+        <description>&lt;h3 id=&quot;bonjour--tous-&quot;&gt;Bonjour à tous !&lt;/h3&gt;
+
+&lt;p&gt;Je sais, c’est plutôt vilain pour le moment mais, si vous veniez là pour voir mes talents de graphiste, autant vous prévenir de suite, vous allez être décus !!&lt;/p&gt;
+
+&lt;p&gt;Cela fait pas mal de temps que j’avais envie de commencer à blogger et enfin je saute le pas !&lt;br /&gt;
+Je vais enchainer les heures de train dans les semaines à venir, au délà du travail “scolaire” on va essayer de mettre ce temps à profit pour l’écriture. Jusqu’ici ça marche plutôt bien, je ne compte plus les ébauches d’articles qui trainent déjà sur mes PC !&lt;/p&gt;
+
+&lt;p&gt;Ce blog est généré grâce à Jekyll, un excellent outils que je recommande à toute personne souhaitant faire son site/blog perso sans passer par un CMS / fournisseur de blog mais sans vouloir non plus trop se prendre la tête sur l’aspect technique. Attention cependant, un minimum de connaissance est quand même requis pour faire tourner la bête et, s’il est possible de faire tourner Jekyll sur Windows, c’est initialement développé pour Linux.&lt;br /&gt;
+Ce blog Jekyll est temporaire, en parallèle je viens de commencer à coder mon site &amp;amp; blog en PHP mais ça ne sera pas opérationnel tout de suite, loin de là ! A terme, et si tout se passe bien, on devrait en arriver à une migration du blog Jekyll vers le site 100% perso. Je tâcherai dans les semaines à venir de mettre en parallèle le site en construction, si ça en intéresse certains de suivre l’évolution !&lt;br /&gt;
+Pour le moment, on se contentera donc d’une présention simple et une esthetique limitée pour commencer à mettre en ligne du contenu, ça évitera d’en être toujours au même point dans 1an !&lt;/p&gt;
+
+&lt;h3 id=&quot;contenu&quot;&gt;Contenu&lt;/h3&gt;
+
+&lt;p&gt;L’objectif dans un premier temps va être de fournir du contenu de manière régulière avec 3 posts par semaine :&lt;br /&gt;
+ - un post “perso” : &lt;br /&gt;
+ Cela ira de mes aventures quotidiennes en formation au coup de gueule occasionnel en passant par des articles “lifestyle” sur ce que je pratique fréquemment.&lt;br /&gt;
+ - un post “techno” :&lt;br /&gt;
+ Ca dependra de l’humeur, actualité et inspiration, je pense que je mélangerai aussi bien tuto qu’actu tech et occasionnellement un peu de science se faufilera par là.&lt;br /&gt;
+ - un post “culture” :&lt;br /&gt;
+ Rien de particulier là dessus, chaque semaine je parlerai d’un livre, auteur, série, film, musicien, artiste, etc. qui me plait et que je recommande. Je tâcherai d’éviter les grands classiques (“si vous voulez une série sympa, je connais Game of Throne”, duh…) pour me concentrer sur mes découvertes et niches persos !&lt;/p&gt;
+
+&lt;p&gt;Soyez clément avec moi si je ne remplis à 100% ces engagements toutes les semaines !&lt;/p&gt;
+
+&lt;p&gt;Malheureusement il n’y aura pas encore de section commentaire, je verrai si je peux rajouter ça assez simplement avec Jekyll, sinon ça attendra le site définitif (d’ici fin d’année je pense). En attendant si vous avez des retours, conseils, commentaires et remontés, positifs ou négatifs je prends, n’hésitez pas à m’envoyer un mail ou un tweet, je tâcherai d’y répondre dès que possible !&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Je déclare officiellement ouvert “Time 2 Dev” !&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Sep 2016 04:20:00 +0200</pubDate>
+        <link>http://blog.time2dev.fr/annonces/2016/09/21/welcome-to-my-blog.html</link>
+        <guid isPermaLink="true">http://blog.time2dev.fr/annonces/2016/09/21/welcome-to-my-blog.html</guid>
+        
+        
+        <category>annonces</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
