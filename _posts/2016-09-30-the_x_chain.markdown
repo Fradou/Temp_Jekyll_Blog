@@ -1,0 +1,49 @@
+﻿---
+layout: post
+title:  "The X chain"
+date:   2016-09-30 19:20:00 +0200
+categories: post lifestyle
+---
+
+Pitch sur le temps pour qu'une habitude en devienne vraiment une ?
+
+## Le pitch de gourou !
+
+Pour ceux qui seraient déjà en train de s'inquièter, non, ca ne va pas être un article PG18 !  
+Aujourd'hui, on va parler d'une petite méthode simple et efficace pour aider à la mise en place de nouvelles, et normalement bonnes, habitudes !  
+
+D'aussi loin que je me rappelle, j'ai toujours bataillé avec la consistance et peiné à implanter de manière durable les changements positifs.  
+D'après mon expérience, tous, mis à part quelques heureux élus, nous éprouvons ce genre de difficultés à des degrés variables. Commencer une nouvelle habitude est simple, c'est après que ça se corse, quand il faut continuer et perseverer jusqu'à ce que ça devienne... une habitude.   
+Voici donc ma solution miracle pour seulement 12 virement de 9,99 € !! Ca c'était pour le quota blague.  
+
+## Le concept
+
+L'idée derrière the X chain est très simple. Au fur et à mesure qu'on pratique, on va créer une chaine de croix, celle-ci nous servira de rappel et surtout d'encouragement à maintenanir la bonne habitude.  
+La X chain permet d'éviter les coups de faiblesse qui commencent par "juste pour aurjoud'hui" et se termine souvent par "ah tiens, ça fait 2 semaines que je ne fais plus ça". J'exagère un peu, quoique...  
+
+## La mise en place
+
+La prochaine que vous mettez en place une nouvelle habitude vous allez également commencer un tableau de 7 sur 7 sur un cahier ou une feuille (je recommande les feuilles cansons).  
+Au verso de cette feuille, expliquez un petit peu la démarche : Pourquoi mettre en place cette habitude ? Quelles sont les motivations ? Quels sont les bénéfices et gains attendus ? Le dernier point est probablement le plus important car, au délà du côté "je fais un contrat avec moi même", toutes ces explications serviront également à vous rappellez "pourquoi ?" et à raviver la flamme en cas de baisse de motivation.  
+
+Chaque jour, une fois l'habit
+
+
+
+## Mes recommandations persos :
+
+Voilà la valeur ajoutée, les conseils issus de ma grande expérience !  
+
+	- Si vous êtes un gros utilisateur du téléphone, cherchez une application de suivi.  
+	Il en existe énormèment qui peuvent s'adapter à cette méthode, de la plus de la plus simple au plus compliquée, vous permettant de mettre des rappels et autres.  
+	Si comme moi vous préfèrez encore la papier pour pas mal de choses, mettez la feuille de suivi dans un endroit stratégique, soit que vous verrez au bon moment soit devant lequel vous passez très souvent dans la journée.
+
+	- Plus les habitudes sont difficiles, moins il faut cumuler !  
+	Cela semble du bon sens, mais on s'emballe facilement. Si vos 3 idée sont de boire un verre d'eau au réveil, lire un article d'actualité et ranger votre bureau , allez-y, faites les 3. Si vos objectifs sont écrire pendant 1h chaque matin, aller à la salle de sport tous les jours et ne pas fumer, il serait peut être une bonne idée d'enlever une des trois.  
+	Simple ou compliqué, gardez bien en mémoire que plus vous essayez d'en mettre d'un coup, plus ça a des chances de rater.
+
+	- Faites un suivi des écueils : Vous avez été faible et avec rompu la châine au bout de 3 semaines ? Shame on you !  
+	Pas besoin pour autant de jeter de rage le carton. Vous avez raté aujourd'hui, ça arrive même aux meilleurs, essayez de déterminer ce qui a provoqué la chute et notez le dans la case. Ca ne vaut pas une croix mais vous aurez quand même travailler à mettre en place l'habitude en déterminant un facteur de risque : situation, état d'esprit, etc.
+
+	- Un conseil général qui ne s'applique pas qu'à cette méthode : parlez-en!  
+	C'est toujours plus difficile de laisser tomber quand vous avez communiqué autour de cet engagement. Ca fait plus d'un an maintenant que j'ai arrêté de fumer, je ne compte pas le nombre de fois où avoir dit autour de moi que j'avais arrêté de fumer m'a retenu de taxer une cigarette de manière impulsive quelques minutes / heures / jours plus tard.
